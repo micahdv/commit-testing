@@ -1,1 +1,1 @@
-Client Name: clientA<br>Project Code Prefix: projectA<br>Production Environment: true
+Client Name: clientB<br>Project Code Prefix: clientB<br>Production Environment: true
