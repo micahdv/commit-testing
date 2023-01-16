@@ -1,1 +1,1 @@
-Client Name: cl-test<br>Project Code Prefix: prj-test<br>Production Environment: true
+Client Name: clientA<br>Project Code Prefix: projectA<br>Production Environment: true
