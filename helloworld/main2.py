@@ -1,1 +1,1 @@
-Client Name: clientC<br>Project Code Prefix: projectC<br>Production Environment: true
+Client Name: rhys<br>Project Code Prefix: prj-rhys<br>Production Environment: true
